@@ -106,7 +106,3 @@
   <i>“Code is not just what you write, it’s what you make possible.”</i><br>
   <b>Thanks for visiting! Let’s collaborate, learn, and innovate together 🚀</b>
 </p>
-
-## 🐍 My GitHub Contribution Snake
-
-![github-contribution-grid-snake](https://github.com/ksuvii21/ksuvii21/blob/output/github-contribution-grid-snake.svg)
