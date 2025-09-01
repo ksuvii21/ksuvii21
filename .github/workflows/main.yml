@@ -27,3 +27,5 @@ jobs:
           author_email: github-actions@github.com
           message: "Generate snake animation"
           add: "github-contribution-grid-snake.svg github-contribution-grid-snake.gif"
+        env:
+          GITHUB_TOKEN: "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"
