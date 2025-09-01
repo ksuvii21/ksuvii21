@@ -9,6 +9,9 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
@@ -16,6 +19,7 @@ jobs:
           outputs: |
             github-contribution-grid-snake.svg
             github-contribution-grid-snake.gif
+
       - name: Push Snake Animation to GitHub
         uses: EndBug/add-and-commit@v9
         with:
