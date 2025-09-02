@@ -92,7 +92,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ksuvii21&show_icons=true&theme=radical" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ksuvii21&show_icons=true&theme=radical" height="200"/><br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ksuvii21&theme=radical" height="200"/>
 </p>
 
