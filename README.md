@@ -85,7 +85,7 @@
 
 - ✉️ Email: [k21ritikasuvi2106@gmail.com](mailto:k21ritikasuvi2106@gmail.com)
 - 🌐 Portfolio: [ksuvii.github.io](https://ksuvii21.github.io/ksuvii.github.io/)
-- 💼 LinkedIn: [kritika-gupta-000941367](https://www.linkedin.com/in/kritika-gupta-000941367)
+- 💼 LinkedIn: [kritika-gupta-000941367](https://www.linkedin.com/in/kritika-gupta2106)
 
 ---
 
